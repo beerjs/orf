@@ -17,8 +17,14 @@ Tweet us, [email us](http://www.meetup.com/NorfolkJS/suggestion/), submit an iss
 
 
 Organizers
--------
+-------------
 
 * Travis Webb ([Github](https://github.com/tjwebb) / [Twitter](https://twitter.com/traviswebbusa))
 * Linda Nichols ([Github](https://github.com/lynnaloo) / [Twitter](https://twitter.com/lynnaloo))
 * Stanley Zheng ([Github](https://github.com/stanzheng) / [Twitter](https://twitter.com/stanzheng))
+
+Future Beer.js Dates/Locations 
+-------------
+
+* March 19, 2014 - The Birch Bar
+* July 23, 2014 - O'Connor Brewing Company
