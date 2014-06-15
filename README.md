@@ -1,7 +1,7 @@
 Beer.js Norfolk
 =========
 
-Beer.js Norfolk is a social gathering of Javascript enthusiasts in Norfolk, VA. We will meet at a local Norfolk bar to drink beer and discuss Javascript and all other matter of things that Javascript developers care about.
+Beer.js Norfolk is a social gathering of Javascript enthusiasts in Norfolk, VA. We will meet approximately every 4 months at a local Norfolk bar to drink beer and discuss Javascript and all other matter of things that Javascript developers care about.
 
 
 Want to join?
@@ -28,3 +28,4 @@ Future Beer.js Dates/Locations
 
 * March 19, 2014 - The Birch Bar
 * July 23, 2014 - O'Connor Brewing Company
+* November 17, 2014 - TBD
