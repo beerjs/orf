@@ -28,4 +28,5 @@ Future Beer.js Dates/Locations
 
 * March 19, 2014 - The Birch Bar
 * July 23, 2014 - O'Connor Brewing Company
-* November 17, 2014 - TBD
+* November 17, 2014 - The Birch Bar
+* January 15, 2015 - TBD
